@@ -1,1 +1,1 @@
-(https://github.com/Hetbhavsar22/Myhostel.git)
+(https://github.com/Hetbhavsar22/Myhostel)
